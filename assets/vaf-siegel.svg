@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Siegel der Hohen Mächte">
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="8" flood-opacity=".28"/>
+    </filter>
+  </defs>
+  <circle cx="256" cy="256" r="238" fill="#f0eadb" stroke="#111" stroke-width="14" filter="url(#shadow)"/>
+  <circle cx="256" cy="256" r="204" fill="none" stroke="#7e0d12" stroke-width="10"/>
+  <circle cx="256" cy="256" r="165" fill="#171717"/>
+  <path d="M256 110 286 189 371 191 304 243 328 325 256 279 184 325 208 243 141 191 226 189Z" fill="#8c1419" stroke="#e9dfc8" stroke-width="6"/>
+  <path d="M180 236c28-8 47-31 76-76 29 45 48 68 76 76-17 13-29 29-35 49-18-13-31-18-41-18s-23 5-41 18c-6-20-18-36-35-49Z" fill="#e9dfc8" opacity=".92"/>
+  <text x="256" y="76" text-anchor="middle" font-family="Georgia, serif" font-size="34" font-weight="700">DIE HOHEN MÄCHTE</text>
+  <text x="256" y="454" text-anchor="middle" font-family="Georgia, serif" font-size="28" font-weight="700">VAF · GENEHMIGT</text>
+</svg>
